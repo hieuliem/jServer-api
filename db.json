@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "name": "Liem",
+      "email": "tes@teswt.com",
+      "mobile": 1234567890,
+      "city": "Richmond, VA"
+    },
+    {
+      "id": "1",
+      "name": "Hanh",
+      "email": "tets@teswt.com",
+      "mobile": 8043385445,
+      "city": "Saigon, VietNam"
+    },
+    {
+      "id": "2",
+      "name": "Anh Do",
+      "email": "anh@test.com",
+      "mobile": 9991112222,
+      "city": "TP. HCM"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "Informative!",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "Liem Do"
+  }
+}
